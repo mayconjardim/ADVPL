@@ -52,8 +52,11 @@
 		},
 		{
 			"label": "U_ForRepeticao"
+		},
+		{
+			"label": "U_WhileLoop"
 		}
 	],
-	"lastProgramExecuted": "U_ForRepeticao",
+	"lastProgramExecuted": "U_WhileLoop",
 	"lastProgramArguments": []
 }
