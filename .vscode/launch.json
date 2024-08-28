@@ -34,8 +34,11 @@
 		},
 		{
 			"label": "U_Variaveis"
+		},
+		{
+			"label": "U_Escopo1"
 		}
 	],
-	"lastProgramExecuted": "U_Variaveis",
+	"lastProgramExecuted": "U_Escopo1",
 	"lastProgramArguments": []
 }
