@@ -46,8 +46,14 @@
 		},
 		{
 			"label": "U_DoCase"
+		},
+		{
+			"label": "U_For"
+		},
+		{
+			"label": "U_ForRepeticao"
 		}
 	],
-	"lastProgramExecuted": "U_DoCase",
+	"lastProgramExecuted": "U_ForRepeticao",
 	"lastProgramArguments": []
 }
