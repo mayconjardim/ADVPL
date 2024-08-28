@@ -28,7 +28,14 @@
 	"lastPrograms": [
 		{
 			"label": "U_OlaMundo"
+		},
+		{
+			"label": "Variavel.prw"
+		},
+		{
+			"label": "U_Variaveis"
 		}
 	],
-	"lastProgramExecuted": "U_OlaMundo"
+	"lastProgramExecuted": "U_Variaveis",
+	"lastProgramArguments": []
 }
