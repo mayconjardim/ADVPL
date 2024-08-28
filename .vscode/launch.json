@@ -40,8 +40,11 @@
 		},
 		{
 			"label": "U_Operador"
+		},
+		{
+			"label": "U_Estrutu"
 		}
 	],
-	"lastProgramExecuted": "U_Operador",
+	"lastProgramExecuted": "U_Estrutu",
 	"lastProgramArguments": []
 }
