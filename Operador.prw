@@ -16,7 +16,7 @@ User Function Operador
     Alert(nNum1 * nNum2)
     Alert(nNum2 / nNum1)
     Alert(nNum2 % nNum1)
-    **/
+  
 
     //Operadores Relacionais
     Alert(nNum1 < nNum2) //Menor
@@ -27,8 +27,12 @@ User Function Operador
     Alert(nNum1 >= nNum2) //Maior ou Igual
     Alert(nNum1 != nNum2) //Diferente
 
-
-
-
-
+    //Operadores de Atribuição
+    nNum1 := 10 //Atribição Simples
+    nNum1 += nNum2 // nNum1 = nNum1 + nNum2
+    nNum2 -= nNum1 // nNum2 = nNum2 - nNum2
+    nNum1 *= nNum2 // nNum1 = nNum1 * nNum2
+    nNum2 /= nNum1 // nNum2 = nNum2 / nNum1
+    nNum2 %= nNum1 // nNum2 = nNum2 % nNum1
+    **/
 return
