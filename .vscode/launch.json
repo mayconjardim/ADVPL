@@ -43,8 +43,11 @@
 		},
 		{
 			"label": "U_Estrutu"
+		},
+		{
+			"label": "U_DoCase"
 		}
 	],
-	"lastProgramExecuted": "U_Estrutu",
+	"lastProgramExecuted": "U_DoCase",
 	"lastProgramArguments": []
 }
