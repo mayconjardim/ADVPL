@@ -55,8 +55,11 @@
 		},
 		{
 			"label": "U_WhileLoop"
+		},
+		{
+			"label": "U_Avetor"
 		}
 	],
-	"lastProgramExecuted": "U_WhileLoop",
+	"lastProgramExecuted": "U_Avetor",
 	"lastProgramArguments": []
 }
