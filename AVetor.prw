@@ -50,8 +50,6 @@ User Function Avetor()
     Local aValores := {"Maycon", dData, 100}
     Local var
 
-    ACHOICE(aOpcoes, "Escolha uma opção")
-
     For var := 1 To Len(aValores)
         Alert(aValores[var])
     Next
