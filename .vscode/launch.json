@@ -58,8 +58,17 @@
 		},
 		{
 			"label": "U_Avetor"
+		},
+		{
+			"label": "U_Bloco"
+		},
+		{
+			"label": "U_Adivinha"
+		},
+		{
+			"label": "U_Adivinhar"
 		}
 	],
-	"lastProgramExecuted": "U_Avetor",
+	"lastProgramExecuted": "U_Adivinhar",
 	"lastProgramArguments": []
 }
