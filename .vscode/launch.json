@@ -67,8 +67,14 @@
 		},
 		{
 			"label": "U_Adivinhar"
+		},
+		{
+			"label": "U_Banco001"
+		},
+		{
+			"label": "U_Banco002"
 		}
 	],
-	"lastProgramExecuted": "U_Adivinhar",
+	"lastProgramExecuted": "U_Banco002",
 	"lastProgramArguments": []
 }
