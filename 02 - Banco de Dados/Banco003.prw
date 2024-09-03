@@ -1,7 +1,7 @@
 #INCLUDE 'protheus.ch'
 #INCLUDE 'parmtype.ch'
 
-User Function Banco004()
+User Function Banco003()
 
     Local aArea := SB1->(GetArea())
 
