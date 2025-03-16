@@ -4,6 +4,7 @@
 User Function A010Tok()
     
     Local lExecuta := .T.
+    Local lExec := .T.
     Local cTipo := AllTrim(M->B1_TIPO)
     Local cConta := AllTrim(M->B1_CONTA)
 
